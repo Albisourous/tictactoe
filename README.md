@@ -1,6 +1,6 @@
 # Tic-Tac-Toe
 
-A simple Tic-Tac-Toe game made using Java and Eclipse.
+A Tic-Tac-Toe game made using Java and Eclipse.
 
 ## Background
 
